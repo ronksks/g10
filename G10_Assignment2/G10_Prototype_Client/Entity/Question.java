@@ -21,7 +21,7 @@
 /*    */ 
 /*    */ 
 /*    */ 
-/*    */ 
+/*    */ ///
 /*    */ 
 /*    */ 
 /*    */   public Question(int id, String ques, String author, String[] pos_ans, int corrent_ans)
