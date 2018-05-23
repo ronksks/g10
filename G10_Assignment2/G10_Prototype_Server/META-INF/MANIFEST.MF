@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ org.eclipse.fx.ide.css.jfx8_3.2.0.201803260700.jar
+  mysql-connector-java-5.1.19-bin.jar
+Class-Path: .
+Rsrc-Main-Class: Server.ServerUI
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
